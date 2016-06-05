@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Client {
 	public static void main(String[] args) throws Exception {
-		int choice, k = 0, MAX = 0, z = 0;// /ss=0,ss1=0;
+		int choice, k = 0, MAX = 0, z = 0;
 		int flag1, index = 0, s = 0, iii = 0;
 		String PNR1 = "040-5000" + z;
 		String PNR2 = PNR1;
